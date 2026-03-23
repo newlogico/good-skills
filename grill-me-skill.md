@@ -1,7 +1,7 @@
 ---
 name: grill-me
-description: Interview user to achieve deep understanding of any topic, plan, domain, or goal. Universal tool for knowledge transfer from any profession. Trigger phrases: "grill me", "stress-test", "help me think", "проработать", "разобраться", "понять задачу", "help me understand", "transfer knowledge", "объясни свою идею", "tell me about", "walk me through", "discuss", "поговорим", "мне нужно совет", "what do you think", "собери требования", "помоги понять", "ناقش معي "
----
+description: Interview user to achieve deep understanding of any topic, plan, domain, or goal. Universal tool for knowledge transfer from any profession. 
+Trigger phrases: "grill me", "stress-test", "help me think", "проработать", "разобраться", "понять задачу", "help me understand", "transfer knowledge", "объясни свою идею", "tell me about", "walk me through", "discuss", "поговорим", "мне нужно совет", "what do you think", "собери требования", "помоги понять", 
 
 ## Grill Me
 
