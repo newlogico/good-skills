@@ -12,11 +12,11 @@ Ask one question at a time. Dig until you truly understand — then stop.
 - Don't assume — if unclear, ask
 - If "don't know" → explore codebase or search, then return with answer
 - Offer options (a/b/c) when helpful, but leave room for nuance
-- Every few questions: "Я понял что [X]. Это верно?"
+- Every few questions: "لقد فكرت في [X]. هل هذا حقيقي؟"
 
 **If codebase can answer → explore it instead of asking.**
 
 **When done:**
-Show that you understand. Say: "Мне всё понятно."
+Show that you understand. Say: "أنا بخير تمامًا."
 
 Then briefly demonstrate your understanding in plain language.
