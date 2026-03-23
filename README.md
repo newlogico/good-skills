@@ -1,2 +1,3 @@
-# flet_app
-to learn flet framework
+# Good Skills
+بعض المهارات الجيدة للذكاء الاصطناعي :
+
